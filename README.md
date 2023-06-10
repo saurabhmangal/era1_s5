@@ -42,5 +42,5 @@ The **Last code** block installs the torchsummary package and uses it to print a
 
 --------------------------------------------------------------------------------------------------------------------
 
-Above the code block three, I have used the proxy settings as I was working on this code on local system.
+**Above the code block three, I have used the proxy settings as I was working on this code on local system.**
 
